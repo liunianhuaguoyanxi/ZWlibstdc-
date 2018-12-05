@@ -1,5 +1,6 @@
 # ZWlibstdc-
-## XCODE10移除了libstdc++，需要增加缺失的文件适配老程序（XCODE 10 REMOVED libstdc++ , NEED TO ADD SOME FILES TO SUPPORT）
+## XCODE10移除了libstdc++，需要增加缺失的文件适配老程序
+## （XCODE 10 REMOVED libstdc++ , NEED TO ADD SOME FILES TO SUPPORT）
 
 ## 网上有很多兼容Xcode10移除了libstdc++后程序无法运行的方案，但感觉都不全面，因为本身项目中用了很多c++的编码，这边亲身研究了下，发现要添加和合并以下的文件，老程序才能完美在xcode10上运行，而且不影响审核。
 ## 目前已经用xcode10迭代了很多个app版本，真机和模拟器都完美运行。
