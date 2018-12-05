@@ -11,8 +11,8 @@
 #### 将文件3内容添加到该路径中： (add the file 3 content into such path：)
 #### /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/
 
-#### 将命名为include的文件替换为文件4内容： (replace such the file which named include with  the file 4 content：)
+#### 将命名为include的文件合并替换为文件4内容： (merge such the file which named “include” with  the file 4 content：)
 #### /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS.sdk/usr/include
 
-#### 将命名为include的文件替换为文件5内容： ： (replace such the file which named include with  the file 5 content：)
+#### 将命名为include的文件合并替换为文件5内容： ： (merge such the file which named “include” with  the file 5 content：)
 #### /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/include
